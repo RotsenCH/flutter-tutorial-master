@@ -7,7 +7,7 @@
 
 # Integrantes
 - Nestor Chumania
-- Salome Quispe
+- Salomé Quispe
 - Daniel Quishpe
 
 # Parte 1
